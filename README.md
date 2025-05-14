@@ -5,7 +5,7 @@ A clean, responsive landing page built with HTML, CSS, and JavaScript.
 This project includes a contact form that sends user-submitted data directly to an Airtable base via the Airtable API.
 
 🔗 **GitHub Repository:**  
-https://github.com/Moma2222
+https://github.com/Moma2222/Konimbo-Landing-Page
 
 ---
 
