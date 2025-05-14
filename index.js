@@ -1,4 +1,3 @@
-document.addEventListener("DOMContentLoaded", function () {
 let form = document.getElementById("contactForm");
 let messageDiv = document.getElementById("formMessage");
 
@@ -42,4 +41,3 @@ let messageDiv = document.getElementById("formMessage");
         messageDiv.style.color = "red";
       }
     });
-  });
