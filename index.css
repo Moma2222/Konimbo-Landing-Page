@@ -21,6 +21,7 @@ form {
 textarea {
       padding: 12px;
       min-height: 150px;
+      max-height: 300px;
       resize: vertical;
     }
 
