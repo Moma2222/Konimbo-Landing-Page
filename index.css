@@ -54,11 +54,18 @@ button:hover {
    
 }
 
-@media (max-width: 400px) {
+@media  {
 
-  .form-container {
+  body {
+      background-size: cover;
+      background-position: left;
+      background-repeat: no-repeat;
+  }
+
+  form {
     max-width: 70%;
-    max-width: 200px;
+    max-height: 900px;
+    margin-top: 500px;
   }
 
 }
