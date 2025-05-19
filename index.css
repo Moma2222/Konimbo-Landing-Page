@@ -54,8 +54,7 @@ button:hover {
    
 }
 
-@media  {
-
+@media{
   body {
       background-size: cover;
       background-position: left;
@@ -80,12 +79,13 @@ button:hover {
   .header {
     font-size: 4rem;
    
-}
+  }
 
-.message {
+  .message {
     font-size: 200px;
     text-align: center;
     margin-top: 1rem;
-}
+  }
+
 
 }
