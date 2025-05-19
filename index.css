@@ -44,7 +44,7 @@ button:hover {
       background: #15a128;
     }
 
-.messege {
+.message {
     margin-top: 1rem;
     font-weight: bold;
 }
@@ -82,8 +82,10 @@ button:hover {
    
 }
 
-.messege {
-    font-size: 200Px;
+.message {
+    font-size: 200px;
+    text-align: center;
+    margin-top: 1rem;
 }
 
 }
