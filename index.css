@@ -73,9 +73,19 @@ button:hover {
     margin-top: 2rem;
   }
 
+  textarea {
+    min-height: 500px;
+
+  }
+
   .header {
     font-size: 4rem;
    
+}
+
+.messege {
+    margin-top: 1rem;
+    font-size: 4rem;
 }
 
 }
